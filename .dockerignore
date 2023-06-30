@@ -1,0 +1,17 @@
+# docker files
+/docker
+
+# heroku
+/Procfile
+/runtime.txt
+
+# pipenv
+/Pipfile
+/Pipfile.lock
+
+# virtualenvs
+/venv
+
+# temp files.
+/tmp
+/scripts
